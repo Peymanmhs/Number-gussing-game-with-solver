@@ -1,9 +1,7 @@
 # Number-gussing-game-with-solver
 Guess number 3 digits game The software define a random number and user must guess it, in each guess software message to user that a guessed number greater or less than a defined number.
 # Solver-Note
-Average tries of Solver (with 10 different answers) : 8
-
-Note : This number may vary with more tries(±1 at max).
+The solver of this game has 10 different answers, usually the average of the solver's attempts is 8
 # About Me
 Mohammad Hossein Safary
 
