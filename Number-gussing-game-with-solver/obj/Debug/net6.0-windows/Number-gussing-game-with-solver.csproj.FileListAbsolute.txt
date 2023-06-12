@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\bin\Debug\net6.0-windows\Number-gussing-game-with-solver.exe
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\bin\Debug\net6.0-windows\Number-gussing-game-with-solver.deps.json
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\bin\Debug\net6.0-windows\Number-gussing-game-with-solver.runtimeconfig.json
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\bin\Debug\net6.0-windows\Number-gussing-game-with-solver.dll
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\bin\Debug\net6.0-windows\Number-gussing-game-with-solver.pdb
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number_gussing_game_with_solver.Form1.resources
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.dll
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\refint\Number-gussing-game-with-solver.dll
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.pdb
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\Number-gussing-game-with-solver.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Number-gussing-game-with-solver\Number-gussing-game-with-solver\obj\Debug\net6.0-windows\ref\Number-gussing-game-with-solver.dll
